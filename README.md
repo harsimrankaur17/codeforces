@@ -6,18 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2060A | [Fibonacciness](https://codeforces.com/contest/2060/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2060/A%20-%20Fibonacciness/solution.cpp) |
 
 ### geometry
 
