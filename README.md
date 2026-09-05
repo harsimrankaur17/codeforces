@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 6 |
+| 11 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [geometry](#geometry) (2)
@@ -20,6 +21,12 @@
 - [math](#math) (4)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### brute force
 
