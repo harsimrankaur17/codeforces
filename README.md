@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 7 |
+| 13 | 7 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (5)
-- [math](#math) (4)
+- [math](#math) (5)
 
 ---
 
@@ -77,6 +77,7 @@
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
 ---
 
