@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 7 |
+| 17 | 9 |
 
 ---
 
@@ -14,11 +14,13 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
+- [data structures](#data-structures) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [math](#math) (5)
+- [sortings](#sortings) (1)
 
 ---
 
@@ -44,7 +46,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1955B | [Progressive Square](https://codeforces.com/contest/1955/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1955/B%20-%20Progressive%20Square/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1955B | [Progressive Square](https://codeforces.com/contest/1955/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1955/B%20-%20Progressive%20Square/solution.cpp) |
 
 ### geometry
 
@@ -69,6 +78,7 @@
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
 | 1950B | [Upscaling](https://codeforces.com/contest/1950/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1950/B%20-%20Upscaling/solution.cpp) |
 | 1950C | [Clock Conversion](https://codeforces.com/contest/1950/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1950/C%20-%20Clock%20Conversion/solution.cpp) |
+| 1955B | [Progressive Square](https://codeforces.com/contest/1955/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1955/B%20-%20Progressive%20Square/solution.cpp) |
 | 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 
@@ -81,6 +91,12 @@
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1955B | [Progressive Square](https://codeforces.com/contest/1955/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1955/B%20-%20Progressive%20Square/solution.cpp) |
 
 ---
 
