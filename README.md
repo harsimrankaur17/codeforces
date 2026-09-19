@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 9 |
+| 18 | 9 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [data structures](#data-structures) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (5)
 - [sortings](#sortings) (1)
 
@@ -80,6 +80,7 @@
 | 1950C | [Clock Conversion](https://codeforces.com/contest/1950/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1950/C%20-%20Clock%20Conversion/solution.cpp) |
 | 1955B | [Progressive Square](https://codeforces.com/contest/1955/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1955/B%20-%20Progressive%20Square/solution.cpp) |
 | 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
+| 2036A | [Quintomania](https://codeforces.com/contest/2036/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2036/A%20-%20Quintomania/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 
 ### math
