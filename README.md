@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 9 |
+| 19 | 9 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (7)
-- [math](#math) (5)
+- [math](#math) (6)
 - [sortings](#sortings) (1)
 
 ---
@@ -46,6 +46,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1914B | [Preparing for the Contest](https://codeforces.com/contest/1914/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1914/B%20-%20Preparing%20for%20the%20Contest/solution.cpp) |
 | 1955B | [Progressive Square](https://codeforces.com/contest/1955/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1955/B%20-%20Progressive%20Square/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 
@@ -87,6 +88,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1914B | [Preparing for the Contest](https://codeforces.com/contest/1914/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1914/B%20-%20Preparing%20for%20the%20Contest/solution.cpp) |
 | 1950C | [Clock Conversion](https://codeforces.com/contest/1950/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/1950/C%20-%20Clock%20Conversion/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
