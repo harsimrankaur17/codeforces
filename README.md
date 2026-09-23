@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 11 |
+| 23 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [data structures](#data-structures) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (7)
 - [math](#math) (8)
 - [number theory](#number-theory) (2)
@@ -81,6 +81,7 @@
 | 2051A | [Preparing for the Olympiad](https://codeforces.com/contest/2051/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2051/A%20-%20Preparing%20for%20the%20Olympiad/solution.cpp) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/harsimrankaur17/codeforces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 
 ### implementation
 
